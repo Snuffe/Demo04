@@ -10,6 +10,7 @@ namespace TuntTeht
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
