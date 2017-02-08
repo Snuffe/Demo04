@@ -20,7 +20,7 @@ namespace AS01
             set {
                 if (value <= maxFloor && value >= minFloor) floor = value;
                 else {
-                    Console.WriteLine("nut pussible");
+                    Console.WriteLine("Not possible");
                 }
             }
         }
